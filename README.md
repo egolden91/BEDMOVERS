@@ -3,6 +3,7 @@ Implementation of the ASTAR algorithm. Solution to the "Bed movers probelm" in a
 Navigating a "bed" like robot in a 2d apartment. C Space (configuration space) is constructed for the given robot in the given environment.
 The ASTAR algorithm is implemented for 3dof [x y theta] allowing the robot to traverse in yaw axis.
 
+by Eli Goldenshluger & Shay Tovi
 
 ![image](https://user-images.githubusercontent.com/104156586/218329957-e87be074-52b1-4e89-9ccb-953b3bc9975a.png)
 
